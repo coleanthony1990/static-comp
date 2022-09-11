@@ -56,9 +56,6 @@ header {
   margin-left: 2.5%;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 3vw
-
-
-
 }
 .boxes {
   background-color: white;
@@ -71,10 +68,8 @@ header {
   margin: 10px;
   position: relative;
 }
-
 .photos {
   width: 100%;
-  
 }
 .arrow {
   position: absolute;
@@ -131,34 +126,26 @@ body {
   background-color: #f2f5f3;
 }
 .pl {
-  
   display: inline-flex;
   flex-direction: column;
   margin-top: 15px;
-  
 }
 .playlist-title {
-  
   font-size: 8px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-left: 10px;
-  
 }
 .name-pl {
-  
   font-size: 13px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-left: 10px;
-  
 }
 .attachments {
-  
   font-size: 8px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-left: 10px;
 }
 .number-attach {
-  
   font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-left: 10px;
@@ -167,7 +154,6 @@ body {
 .attach {
   display: inline-flex;
   flex-direction: column;
-  
 }
 .name-date {
   display: inline-flex;
